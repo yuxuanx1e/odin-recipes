@@ -1,4 +1,4 @@
-# Odin-Recipes
+# Odin Recipes
 
 Recipes page created with HTML
 
